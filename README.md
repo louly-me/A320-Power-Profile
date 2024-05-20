@@ -9,9 +9,9 @@ Report.pdf: A detailed report explaining the methodology and steps involved in t
 # Usage
 
 1. Excel Calculation Sheet
-The Excel file A320_Performance_Calculation_Sheet.xlsx serves as the primary tool for performance calculations. Users can input various parameters related to the flight profile, such as altitude, speed, payload, and wind conditions. The sheet then calculates power profiles, fuel consumption, and other relevant metrics based on the provided inputs. For users wishing to tailor the calculation sheet to specific flight profiles or scenarios, refer to the Customization_Instructions.md file. This document provides detailed guidance on modifying the Excel sheet parameters and formulas to accommodate different requirements.
- 
-2. Report
+The Excel file A320_Performance_Calculation_Sheet.xlsx serves as the primary tool for performance calculations. Users can input various parameters related to the flight profile, such as altitude, speed, and payload. The sheet then calculates power profiles, fuel consumption, and other relevant metrics based on the provided inputs. For users wishing to tailor the calculation sheet to specific flight profiles or scenarios, refer to the customization instructions incorporated in the sheet.
+
+3. Report
 The Report.pdf file offers a comprehensive explanation of the methodology employed in the performance calculations. It details the various factors considered, the equations used, and the rationale behind the chosen approach. This report serves as a reference for understanding the intricacies of the performance calculation tool.
 
 # Contributing
