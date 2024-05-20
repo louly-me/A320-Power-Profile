@@ -3,7 +3,9 @@ This repository contains an Excel-based performance calculation sheet for the Ai
 
 # Contents
 README.md: This file provides an overview of the repository.
+
 A320_Performance_Calculation_Sheet.xlsx: The Excel file containing the performance calculation tool. Also, includes instructions for customizing the calculation sheet for specific flight profiles.
+
 Report.pdf: A detailed report explaining the methodology and steps involved in the performance calculations.
 
 # Usage
